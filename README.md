@@ -53,24 +53,24 @@ Java communicates with MySQL tables using JDBC which stands for Java Database Co
 
 ## Login
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Login.JPG" width="400" height="300">
+<img src="https://github.com/thecodersway/Electricity_Billing_System/blob/master/ScreenShots/Login.JPG" width="400" height="300">
 
 ## Main Page
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Main.JPG" width="600" height="500">
+<img src="https://github.com/thecodersway/Electricity_Billing_System/blob/master/ScreenShots/Main.JPG" width="600" height="500">
 
 ## Add Customer
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/AddC.JPG" width="500" height="500">
+<img src="https://github.com/thecodersway/Electricity_Billing_System/blob/master/ScreenShots/AddC.JPG" width="500" height="500">
 
 ## Calculate Bill
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/CalculateBill.JPG" width="500" height="500">
+<img src="https://github.com/thecodersway/Electricity_Billing_System/blob/master/ScreenShots/CalculateBill.JPG" width="500" height="500">
 
 ## Details
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Details.JPG" width="800" height="300">
+<img src="https://github.com/thecodersway/Electricity_Billing_System/blob/master/ScreenShots/Details.JPG" width="800" height="300">
 
 ## Generate Bill
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/GenerateBill.JPG" width="400" height="700">
+<img src="https://github.com/thecodersway/Electricity_Billing_System/blob/master/ScreenShots/GenerateBill.JPG" width="400" height="700">
